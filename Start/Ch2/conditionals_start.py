@@ -3,6 +3,8 @@
 
 
 x, y = 10, 100
+print(x)
+print(y)
 
 # conditional flow uses if, elif, else
 
